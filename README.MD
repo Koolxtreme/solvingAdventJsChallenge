@@ -15,7 +15,7 @@ F --> E{Final solution}
 
  - [x] 1- Counting Sheep to sleep
  - [x] 2- Help the elf to list the gifts
- - [ ] 3- The grinch wants to spoil christmas
+ - [x] 3- The grinch wants to spoil christmas
  - [ ] 4- Time to get christmas at home!
  - [ ] 5- Counting down the days for gifts
  - [ ] 6- Finishing final exams
