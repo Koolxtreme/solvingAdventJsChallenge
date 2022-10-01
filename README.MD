@@ -17,8 +17,8 @@ F --> E{Final solution}
  - [x] 2- Help the elf to list the gifts
  - [x] 3- The grinch wants to spoil christmas
  - [x] 4- Time to get christmas at home!
- - [ ] 5- Counting down the days for gifts
- - [ ] 6- Finishing final exams
+ - [x] 5- Counting down the days for gifts
+ - [x] 6- Finishing final exams
  - [ ] 7- Searching in the warehouse
  - [ ] 8- Cryptocurrency madness!
  - [x] 9- Grouping things automatically
