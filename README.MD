@@ -1,6 +1,6 @@
 # Welcome to my responses!
 
->### Repository thought to upload the solutions for the https://adventjs.dev/ challenges with the additional cap of resolving them using Test Driven Development.
+>### Repository designed to upload the solutions for the https://adventjs.dev/ challenges with the additional cap of resolving them using Test Driven Development.
 
 ```mermaid
 graph LR
