@@ -20,7 +20,7 @@ F --> E{Final solution}
  - [x] 5- Counting down the days for gifts
  - [x] 6- Finishing final exams
  - [x] 7- Searching in the warehouse
- - [ ] 8- Cryptocurrency madness!
+ - [x] 8- Cryptocurrency madness!
  - [x] 9- Grouping things automatically
  - [ ] 10- Exchange machine
  - [ ] 11- Does worth the cinema loyalty card?
