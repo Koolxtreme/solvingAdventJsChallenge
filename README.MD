@@ -22,8 +22,8 @@ F --> E{Final solution}
  - [x] 7- Searching in the warehouse
  - [x] 8- Cryptocurrency madness!
  - [x] 9- Grouping things automatically
- - [ ] 10- Exchange machine
- - [ ] 11- Does worth the cinema loyalty card?
+ - [x] 10- Exchange machine
+ - [x] 11- Does worth the cinema loyalty card?
  - [ ] 12- The perfect route to deliver the gifts
  - [ ] 13- Wrap gifts with asterisks
  - [ ] 14- Looking for the lost reindeer
